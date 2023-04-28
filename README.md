@@ -1,3 +1,5 @@
 # new-project
 New repository for Prometheus course
-New text for checking instructions
+
+This file will contain instructions for completing the task in two ways.
+Using the graphical interface and using the command line.
