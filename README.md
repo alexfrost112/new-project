@@ -8,3 +8,4 @@ If you have to create a new branch under a different name, then go to the "branc
 After that you can merge branches.
 To do this, go to the "pull requests" tab and you will see that there will be version differences between the main branch and the branch you have chosen.
 Accordingly, in order for you to merge branches, you need to create a new "pull request". Carefully select the branches to merge and commit.
+Branch merge done
